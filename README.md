@@ -3,6 +3,10 @@
 
 🚀 A passionate **Full-Stack Web Developer** skilled in **MERN Stack**, **GSAP animations**, and crafting responsive, dynamic web experiences.  
 
+ <a href="https://www.linkedin.com/in/sharath-shetty28/">
+    <img src="https://img.shields.io/badge/Follow%20Me%20on-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="Follow on LinkedIn" />
+  </a>
+
 🌐 **Portfolio:** [sharath-shetty.vercel.app](https://sharath-shetty.vercel.app/)  
 🔗 **LinkedIn:** [in/sharath-shetty28](https://www.linkedin.com/in/sharath-shetty28)  
 📫 **Reach me at:** sharathshetty301@gmail.com  
