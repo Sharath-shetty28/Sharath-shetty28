@@ -4,15 +4,16 @@
 
   🚀 A passionate <strong>Full-Stack Web Developer</strong> skilled in <strong>MERN Stack</strong>, <strong>GSAP animations</strong>, and crafting responsive, dynamic web experiences.<br><br>
 
-  - 🌱 **I love learning new technologies** and exploring **AI models**.<br><br>
+  <a href="https://www.linkedin.com/in/sharath-shetty28/">
+    <img src="https://img.shields.io/badge/Follow%20Me%20on-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="Follow on LinkedIn" />
+  </a>
   
+  - 🌱 **I love learning new technologies** and exploring **AI models**.
+    
   - 🌐 **Checkout My Portfolio here** [sharath-shetty.vercel.app](https://sharath-shetty.vercel.app/)
     
   - 📫 **Reach me at:** sharathshetty301@gmail.com  
 
-  <a href="https://www.linkedin.com/in/sharath-shetty28/">
-    <img src="https://img.shields.io/badge/Follow%20Me%20on-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="Follow on LinkedIn" />
-  </a>
 </p>
 
 ---
