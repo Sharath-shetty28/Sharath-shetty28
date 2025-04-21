@@ -68,7 +68,7 @@
 
 
 <p style="font-size:16px; color:#888;">  
-✨ "Coding is an art, and I'm here to create masterpieces."✨  
+✨ "Coding to bring ideas to life." ✨
 </p>
 
 
