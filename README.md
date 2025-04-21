@@ -11,6 +11,22 @@
 🔗 **LinkedIn:** [in/sharath-shetty28](https://www.linkedin.com/in/sharath-shetty28)  
 📫 **Reach me at:** sharathshetty301@gmail.com  
 
+
+<p align="center">
+  <h2 align="center">👋 Hi, I’m Sharath Shetty (@sharathshetty28)</h2>
+
+  🚀 A passionate <strong>Full-Stack Web Developer</strong> skilled in <strong>MERN Stack</strong>, <strong>GSAP animations</strong>, and crafting responsive, dynamic web experiences.<br><br>
+
+  - 🌐 **Portfolio:** [sharath-shetty.vercel.app](https://sharath-shetty.vercel.app/)  
+  - 📫 **Reach me at:** sharathshetty999@gmail.com  
+  - 🌱 **I love learning new technologies** and exploring **AI models**.<br><br>
+
+  <a href="https://www.linkedin.com/in/sharath-shetty28/">
+    <img src="https://img.shields.io/badge/Follow%20Me%20on-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="Follow on LinkedIn" />
+  </a>
+</p>
+
+
 ---
 
 ### ⚙️ Tech Stack  
