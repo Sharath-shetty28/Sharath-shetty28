@@ -1,5 +1,5 @@
 
- <h2 style="color:#4CAF50;"> 👋 Hi, I’m Sharath Shetty </h2>
+ <h2 style="color:#4CAF50;" align="center"> 👋 Hi, I’m Sharath Shetty </h2>
 
 🚀 A passionate **Full-Stack Web Developer** skilled in **MERN Stack**, **GSAP animations**, and crafting responsive, dynamic web experiences.  
 
