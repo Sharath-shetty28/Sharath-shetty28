@@ -1,7 +1,5 @@
-<h2 style="color:#4CAF50;">💻 Sharath Shetty | Full-Stack Developer 🚀</h2>
 
-
-### 👋 Hi, I’m Sharath Shetty (`@sharathshetty28`)
+ <h2 style="color:#4CAF50;"> 👋 Hi, I’m Sharath Shetty </h2>
 
 🚀 A passionate **Full-Stack Web Developer** skilled in **MERN Stack**, **GSAP animations**, and crafting responsive, dynamic web experiences.  
 
