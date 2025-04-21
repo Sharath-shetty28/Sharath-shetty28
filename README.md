@@ -6,12 +6,6 @@
 🌐 **Portfolio:** [sharath-shetty.vercel.app](https://sharath-shetty.vercel.app/)  
 🔗 **LinkedIn:** [in/sharath-shetty28](https://www.linkedin.com/in/sharath-shetty28)  
 📫 **Reach me at:** sharathshetty301@gmail.com  
-🐦 **Twitter / X:** [@sharathshetty28](https://twitter.com/sharathshetty28)
-
-<p style="font-size:18px; color:#555;">  
-🌟 Welcome to My GitHub Profile!<br>  
-Hey there! I'm a passionate Full-Stack Developer with a strong focus on the MERN Stack, smooth GSAP animations, and a love for crafting clean, responsive, and engaging web experiences.I enjoy building scalable, interactive applications that not only perform well but also look and feel amazing. From backend logic to pixel-perfect frontends — I bring ideas to life through elegant code. 🎨💡
-</p>  
 
 ---
 
