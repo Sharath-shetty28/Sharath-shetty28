@@ -69,10 +69,10 @@
 <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">  
 
 ### 🌐 Connect with Me  
-  <a href="mailto:sharathshetty301@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="Gmail" /></a>  
-  <a href="https://www.linkedin.com/in/sharath-shetty28/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="LinkedIn" /></a>  
-  <a href="https://x.com/sharathshetty28"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="Twitter" /></a>  
-  <a href="https://www.instagram.com/sharath._.shettyy_.28/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="Instagram" /></a>  
+  <a href="mailto:sharathshetty301@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="Gmail" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sharath-shetty28/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;  
+  <a href="https://x.com/sharathshetty28"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="Twitter" /></a>&nbsp;&nbsp;&nbsp;  
+  <a href="https://www.instagram.com/sharath._.shettyy_.28/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;  
 </div>  
 
 
