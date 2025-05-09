@@ -30,7 +30,6 @@
   <p align="center" gap="10px">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,git" /> <br/>
-   <p  style="margin-top: 20px; margin-bottom: 20px;"></p>
     <img src="https://skillicons.dev/icons?i=nodejs,django,mysql,mongodb,firebase,java,py,cpp" />
   </a>
 </p>
