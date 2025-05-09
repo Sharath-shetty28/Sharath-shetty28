@@ -66,7 +66,7 @@
 ---
 
 
-<div style="display: flex; flex-direction: row;">  
+<div style="display: flex;">  
 
 ### 🌐 Connect with Me  
   <a href="mailto:sharathshetty301@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="Gmail" /></a>  
