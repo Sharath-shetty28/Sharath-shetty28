@@ -76,10 +76,10 @@
 ---
 
 ### 👀 Profile Views  
-<div style="display: flex; align-items: center; justify-content: flex-start; gap: 10px; font-family: Arial, sans-serif; font-size: 16px; color: #4CAF50; border: 2px solid #4CAF50; padding: 10px; border-radius: 8px; background-color: #f9f9f9;">  
+<div style="display: flex;  align-items: center; justify-content: flex-start; gap: 10px; font-family: Arial, sans-serif; font-size: 16px; color: #4CAF50; border: 2px solid #4CAF50; padding: 10px; border-radius: 8px; background-color: #f9f9f9;">  
   <img src="https://komarev.com/ghpvc/?username=SharathShetty&style=flat-square&color=brightgreen" alt="Profile Views Counter" style="border-radius: 4px;" />  <br/>
 
-  <a  align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8C" alt="Typing SVG" /></a>
+  <a   href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8C" alt="Typing SVG" /></a>
 </div>
 
 
