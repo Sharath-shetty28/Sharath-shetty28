@@ -22,9 +22,9 @@
 </p>
 
 ---
-<div style="text-align: center; font-weight: bold;">
-  ⚙️ Tech Stack  
-</div>
+
+### ⚙️ Tech Stack  
+
 
   <p align="center" gap="10px">
   <a href="https://skillicons.dev">
