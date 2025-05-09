@@ -32,7 +32,7 @@
 
 ---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Sharath-shetty28.yourrepo&style=flat-square)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SharathShetty.yourrepo&style=flat-square)
 
 
 
