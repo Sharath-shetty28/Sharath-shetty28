@@ -32,7 +32,8 @@
 
 ---
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&format=true)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Sharath-shetty28.yourrepo&style=flat-square)
+
 
 
 ### 📊 GitHub Stats  
