@@ -57,6 +57,16 @@
 ---
 
 
+---
+
+<p align="center" style="font-size:16px; color:#888;">  
+✨ "Coding to bring ideas to life." ✨
+</p>
+
+---
+
+
+
 ### 🌐 Connect with Me  
 <div style="display: flex; gap: 15px;">  
   <a href="mailto:sharathshetty301@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="Gmail" /></a>  
@@ -64,15 +74,6 @@
   <a href="https://x.com/sharathshetty28"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="Twitter" /></a>  
   <a href="https://www.instagram.com/sharath._.shettyy_.28/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="Instagram" /></a>  
 </div>  
-
-
----
-
-
-<p style="font-size:16px; color:#888;">  
-✨ "Coding to bring ideas to life." ✨
-</p>
-
 
 
 ---
