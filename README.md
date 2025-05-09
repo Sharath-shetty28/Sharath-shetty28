@@ -54,8 +54,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharath-shetty28&layout=compact&theme=radical" alt="Most Used Languages" height="180" />  
 </div>  
 
----
-
 
 ---
 
