@@ -68,7 +68,7 @@
 
 
 ### 🌐 Connect with Me  
-<div style="display: flex; flex-direction: row; justify-content: center; gap: 20px; margin: 20px 0;">  
+<div style="display: flex; flex-direction: row;">  
   <a href="mailto:sharathshetty301@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="Gmail" /></a>  
   <a href="https://www.linkedin.com/in/sharath-shetty28/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="LinkedIn" /></a>  
   <a href="https://x.com/sharathshetty28"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="Twitter" /></a>  
