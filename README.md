@@ -22,8 +22,10 @@
 </p>
 
 ---
-<div align="center">
-### ⚙️ Tech Stack  
+
+ <div  align="center">
+ ⚙️ Tech Stack  
+ </div>
 
   <p align="center" gap="10px">
   <a href="https://skillicons.dev">
@@ -31,7 +33,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,django,mysql,mongodb,firebase,java,py,cpp" />
   </a>
 </p>
-</div>
+
 
 ---
 
