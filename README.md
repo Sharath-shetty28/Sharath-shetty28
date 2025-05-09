@@ -1,5 +1,5 @@
 <p align="right">
- <img src="https://komarev.com/ghpvc/?username=SharathShetty&style=flat-square&color=brightgreen" alt="Profile Views Counter" style="border-radius: 4px; " />  <br/>
+ <img src="https://komarev.com/ghpvc/?username=SharathShetty&style=plastic&color=blue" alt="Profile Views Counter" style="border-radius: 4px; " />  <br/>
 </p>
 
 <p align="center">
