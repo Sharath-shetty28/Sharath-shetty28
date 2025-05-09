@@ -22,11 +22,10 @@
 
 ### ⚙️ Tech Stack  
 <div>
-  <p align="center">
+  <p align="center" gap="10px">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,git" /> <br/>
-    <img src="https://skillicons.dev/icons?i=django,firebase,mysql,mongodb,nodejs" /><br/>
-    <img src="https://skillicons.dev/icons?i=java,py,cpp" />
+    <img src="https://skillicons.dev/icons?i=nodejs,django,mysql,mongodb,firebase,java,py,cpp" />
   </a>
 </p>
 </div>
