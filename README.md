@@ -35,15 +35,14 @@
 
 ---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=SharathShetty.yourrepo&style=flat-square)
+
 
 
 
 ### 📊 GitHub Stats  
 <div>  
   <img src="https://github-readme-stats.vercel.app/api?username=Sharath-shetty28&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharath-shetty28&theme=radical" alt="GitHub Streak" height="180" />  
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sharath-shetty28&theme=transparent" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharath-shetty28&theme=blue" alt="GitHub Streak" height="180" />  
 </div>  
 
 ---
