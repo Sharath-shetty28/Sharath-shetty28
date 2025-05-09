@@ -23,6 +23,9 @@
 
 ---
 
+<div align="center">
+
+
 ### ⚙️ Tech Stack  
 
 
@@ -33,7 +36,7 @@
   </a>
 </p>
 
-
+</div>
 ---
 
 
