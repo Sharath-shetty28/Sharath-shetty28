@@ -57,6 +57,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharath-shetty28&theme=github-dark-blue" alt="Most Used Languages" height="180" />  
 </div>  
 
+<div align="center" style="background-color: black; padding: 20px; border-radius: 10px;">
+  <h3 style="color: white; margin-bottom: 10px;">🔥 Most Used Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharath-shetty28&theme=github-dark-blue&layout=compact"
+       alt="Most Used Languages"
+       height="180"
+       style="border-radius: 6px;" />
+</div>
+
+
 
 ---
 
