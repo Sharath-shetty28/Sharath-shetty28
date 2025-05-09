@@ -32,6 +32,9 @@
 
 ---
 
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&format=true)
+
+
 ### 📊 GitHub Stats  
 <div>  
   <img src="https://github-readme-stats.vercel.app/api?username=Sharath-shetty28&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />  &nbsp;&nbsp;&nbsp;&nbsp;
