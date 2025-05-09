@@ -1,9 +1,12 @@
+<p align="right">
+ <img src="https://komarev.com/ghpvc/?username=SharathShetty&style=flat-square&color=brightgreen" alt="Profile Views Counter" style="border-radius: 4px; " />  <br/>
+</p>
 
 <p align="center">
   <h2 align="center">👋 Hi, I’m Sharath Shetty </h2>
          
           
- <img src="https://komarev.com/ghpvc/?username=SharathShetty&style=flat-square&color=brightgreen" alt="Profile Views Counter" style="border-radius: 4px;" />  <br/>
+
   🚀 A passionate <strong>Full-Stack Web Developer</strong> skilled in <strong>MERN Stack</strong>, <strong>GSAP animations</strong>, and crafting responsive, dynamic web experiences.<br><br>
 
   <a href="https://www.linkedin.com/in/sharath-shetty28/">
