@@ -55,6 +55,7 @@
 
 ### 🔥 Most Used Languages  
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharath-shetty28&theme=react&show_icons=true&hide_border=false&layout=compact" alt="Most Used Languages" height="180" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharath-shetty28&theme=react&show_icons=true&hide_border=true&layout=compact"  alt="Most Used Languages" height="180" /> 
 </div>  
 
 ---
