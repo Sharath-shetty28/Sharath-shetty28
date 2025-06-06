@@ -46,9 +46,9 @@
 
 ### 📊 GitHub Stats  
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=Sharath-shetty28&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />  &nbsp;&nbsp;&nbsp;&nbsp; -->
-<img src="https://github-readme-stats.vercel.app/api?username=Sharath-shetty28&theme=react&show_icons=true&hide_border=false&count_private=true" alt="GitHub Streak" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sharath-shetty28&theme=github-dark-blue&show_icons=true&hide_border=false&count_private=true" alt="GitHub Streak" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharath-shetty28&theme=react&hide_border=false"  alt="GitHub Streak" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharath-shetty28&theme=github-dark-blue&hide_border=false"  alt="GitHub Streak" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharath-shetty28&theme=github-dark-blue" alt="GitHub Streak" height="180" />  
 </div>  
 
