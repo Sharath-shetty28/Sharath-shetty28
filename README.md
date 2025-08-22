@@ -15,7 +15,7 @@
   
   - 🌱 **I love learning new technologies** and exploring **AI models**.
     
-  - 🌐 **Checkout My Portfolio here :** [sharathshetty.vercel.app](https://sharathshetty.vercel.app/)
+  - 🌐 **Checkout My Portfolio here :** [sharathshetty.vercel.app](https://sharathshetty.me)
     
   - 📫 **Reach me at:** sharathshetty301@gmail.com  
 
