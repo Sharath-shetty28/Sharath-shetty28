@@ -7,7 +7,7 @@
          
           
 
-  🚀 A passionate <strong>Full-Stack Web Developer</strong> skilled in <strong>MERN Stack</strong>, <strong>GSAP animations</strong>, and crafting responsive, dynamic web experiences.<br><br>
+🚀 Sharath Shetty — Full-stack developer specializing in **MERN, React Native, and AI**, crafting responsive & dynamic web experiences.
 
   <a href="https://in.linkedin.com/in/sharath-shetty-761a4b319">
     <img src="https://img.shields.io/badge/Follow%20Me%20on-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="Follow on LinkedIn" />
