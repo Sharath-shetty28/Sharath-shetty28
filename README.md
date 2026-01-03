@@ -32,11 +32,10 @@
 
   <p align="center" gap="10px">
   <a href="https://go-skill-icons.vercel.app">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,tailwind,figma,gsap,react,nextjs,ts,git,postman"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,tailwind,figma,gsap,react,nextjs,ts"/>
      <img  src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,fastapi,django,mongodb,postgres,firebase,java,py,cpp"  /><br/>
-   <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,scikitlearn,matplotlib,seaborn,streamlit"
-    />
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,scikitlearn,matplotlib,seaborn,streamlit"/> <br/>
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,jest,githubactions,docker,kubernetes"/>  
   </a>
 </p>
 
