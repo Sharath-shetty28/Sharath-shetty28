@@ -48,20 +48,23 @@
 <div align="center">  
 
 ### 📊 GitHub Stats  
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sharath-shetty28&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sharath-shetty28&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharath-shetty28&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  <img src="https://github-readme-stats.vercel.app/api?username=Sharath-shetty28&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />  &nbsp;&nbsp;&nbsp;&nbsp; 
 
-<div align="center">  
 
-### 🔥 Most Used Languages  
+
+<!-- ### 🔥 Most Used Languages  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharath-shetty28&theme=react&show_icons=true&hide_border=true&layout=compact"  alt="Most Used Languages" height="190" /> 
+-->
 </div>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharath-shetty28&show_icons=true&locale=en&layout=compact" alt="sharath-shetty28" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharath-shetty28&show_icons=true&locale=en" alt="sharath-shetty28" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharath-shetty28&" alt="sharath-shetty28" /></p>
 
 ---
 
