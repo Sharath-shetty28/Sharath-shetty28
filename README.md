@@ -53,10 +53,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Sharath-shetty28&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharath-shetty28&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- <img src="https://github-readme-stats.vercel.app/api?username=Sharath-shetty28&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />  &nbsp;&nbsp;&nbsp;&nbsp; 
-
-
 
 <!-- ### 🔥 Most Used Languages  
 
